@@ -29,3 +29,7 @@ API monitoring checks to see if API resources are available, working properly an
 ## References
 
 - [API Monitoring: A Complete Introduction](https://www.splunk.com/en_us/blog/learn/api-monitoring.html) by Splunk
+
+## Additional Resources
+
+- [API Performancde Monitoring](https://www.catchpoint.com/api-monitoring-tools/api-performance-monitoring) by Catchpoint
